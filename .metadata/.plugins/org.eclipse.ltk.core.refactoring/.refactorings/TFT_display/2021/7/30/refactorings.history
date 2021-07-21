@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TFT_display/Core/Src/ST7789&apos; to &apos;ST7789.c&apos;" description="Rename resource &apos;ST7789&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/ST7789" name="ST7789.c" stamp="1626899480970" updateReferences="true"/>
+</session>

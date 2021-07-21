@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;LCD_DSI_CmdMode_DoubleBuffering&apos;" deleteContents="true" description="Delete resource &apos;LCD_DSI_CmdMode_DoubleBuffering&apos;" element1="/LCD_DSI_CmdMode_DoubleBuffering" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1626898377260"/>&#x0A;<refactoring comment="Rename resource &apos;STM32F405RG_blink&apos; to &apos;LED_blink&apos;" description="Rename resource &apos;STM32F405RG_blink&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/STM32F405RG_blink" name="LED_blink" stamp="1626908645855" updateReferences="true"/>
+</session>
