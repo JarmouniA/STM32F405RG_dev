@@ -576,3 +576,21 @@ java.net.UnknownHostException: sw-center.st.com
 
 !ENTRY org.eclipse.cdt.core 1 0 2021-07-22 00:04:06.001
 !MESSAGE Indexed 'LED_blink' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2021-07-22 00:34:31.898 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-07-22 00:34:37.335
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-07-22 00:34:37.381
+!MESSAGE Log4j initialized with config file C:\FilesDrive\GitHub\STM32F405RG_dev\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-07-22 00:34:42.954
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-22 00:35:47.250
+!MESSAGE Indexed 'LED_blink' (21 sources, 81 headers) in 1.9 sec: 4,312 declarations; 17,473 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0092%)
